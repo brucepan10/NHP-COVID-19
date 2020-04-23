@@ -6,7 +6,7 @@ Source code of manuscript: [Single-cell atlas of a non-human primate reveals new
 **2.** Users should have R version 3.5 or higher, python version 3.6, and several packages as indicated in the scripts.
 
 
-<font size=5>**Descriptions of the scripts**</font>  
+<font size=8>**Descriptions of the scripts**</font>  
 01.Clustering_organ9_Figure2AB_4D.py  
    Clustering analysis of all single cells within our dataset, and UMAP projection of ACE2, TMPRSS2, TMEM27, IDO2, DNAJC12 and ANPEP expression in all single cells.
    
