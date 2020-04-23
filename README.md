@@ -50,7 +50,7 @@ Source code of manuscript: [Single-cell atlas of a non-human primate reveals new
 
 
 **Data availability**  
-All raw sequencing data are available at CNGB with accession number [CNP0000986] (https://db.cngb.org/cnsa/project/CNP0000986/public/). All other data supporting the findings of this study are available from the corresponding author on reasonable request.All code is available [here](https://github.com/brucepan10/NHP-COVID-19/edit/master/README.md).
+All raw sequencing data are available at CNGB with accession number [CNP0000986](https://db.cngb.org/cnsa/project/CNP0000986/public/). All other data supporting the findings of this study are available from the corresponding author on reasonable request.All code is available [here](https://github.com/brucepan10/NHP-COVID-19/tree/master/Figure_code).
 
 
 
