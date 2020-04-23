@@ -45,7 +45,7 @@ Source code of manuscript: [Single-cell atlas of a non-human primate reveals new
 11.FigureS3.R  
    ACE2 and TMPRSS2 expression in each tissue/organ. 
    
-12.FigureS4ABC.R
+12.FigureS4ABC.R           
    Subtypes of proximal tubule cells in kidney.  
 
 **Data availability**  
