@@ -5,13 +5,18 @@ Source code of manuscript: [Single-cell atlas of a non-human primate reveals new
 **1.** These scripts have been tested on Windows or Linux, but should be supported by Mac OSX.  
 **2.** Users should have R version 3.5 or higher, python version 3.6, and several packages as indicated in the scripts.
 
-**Descriptions of the scripts**  
+
+<font size=5>**Descriptions of the scripts**</font>  
 01.Clustering_organ9_Figure2AB_4D.py  
-   Clustering analysis of all cells from 9 organs, then output Figure 2AB and 4D in manuscript.  
+   Clustering analysis of all single cells within our dataset, and UMAP projection of ACE2, TMPRSS2, TMEM27, IDO2, DNAJC12 and ANPEP expression in all single cells.
+   
 02.Figure1BC_FigureS1.R  
-   Output Figure 1BC and S1 in manuscript.  
+   UMAP visualization of all single cells from the dataset colored by tissue/organ and 44 clusters in the first round of clustering.   
+   
 03.Figure2CDE.R  
-   Output Figure 2CDE in manuscript.  
+   UMAP projection of ACE2<sup>+</sup>/TMPRSS2<sup>+</sup> cells; Bubble plots showing the level of expression of TMPRSS2 and ACE2 genes and the ratio of expressing cells in the indicated cell types; Barplot indicating the percentage of ACE2 and TMPRSS2 expressing cells within each cell cluster.  
+ 
+expressing cells in the indicated cell types.   
 04.Figure3.R  
    Output Figure 3 in manuscript.  
 05.Figure4ABC.R  
