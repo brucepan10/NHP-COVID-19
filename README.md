@@ -13,7 +13,7 @@ Source code of manuscript: [Single-cell atlas of a non-human primate reveals new
    UMAP projection of ACE2, TMPRSS2, TMEM27, IDO2, DNAJC12 and ANPEP expression in all single cells.
    
 02.Figure1BC_FigureS1.R  
-   UMAP visualization of all single cells from the dataset colored by tissue/organ and 44 clusters in the first round of clustering;     
+   UMAP visualization of all single cells from the dataset colored by tissue/organ and cell cluster;     
    Quality control of the single-cell RNA-seq libraries.  
    
 03.Figure2CDE.R  
@@ -45,9 +45,8 @@ Source code of manuscript: [Single-cell atlas of a non-human primate reveals new
 11.FigureS3.R  
    ACE2 and TMPRSS2 expression in each tissue/organ. 
    
-12.FigureS4ABC.R  
-   Specific accessible chromatin in each cluster of kidney.  
-
+12.FigureS4ABC.R
+   Subtypes of proximal tubule cells in kidney.  
 
 **Data availability**  
 All raw sequencing data are available at CNGB with accession number [CNP0000986](https://db.cngb.org/cnsa/project/CNP0000986/public/).    
