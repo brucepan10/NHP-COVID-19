@@ -7,7 +7,7 @@ Source code of manuscript: [Single-cell atlas of a non-human primate reveals new
 
 **Descriptions of the scripts**  
 01.Clustering_organ9_Figure2AB_4D.py  
-   &emsp Clustering analysis of all cells from 9 organs, then output Figure 2AB and 4D in manuscript.  
+   Clustering analysis of all cells from 9 organs, then output Figure 2AB and 4D in manuscript.  
 02.Figure1BC_FigureS1.R  
    Output Figure 1BC and S1 in manuscript.  
 03.Figure2CDE.R  
